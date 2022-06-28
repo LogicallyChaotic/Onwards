@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056a90b20cf337c45974dd5ea0a71067, type: 3}
+  m_Name: pickupfloatingtileKey
+  m_EditorClassIdentifier: 
+  unused: {fileID: -279146466601865635, guid: b79e87c5467c6eb4da75d559870c2f2f, type: 3}
+  highlighted: {fileID: 5049258560665330469, guid: b79e87c5467c6eb4da75d559870c2f2f,
+    type: 3}
+  HighlightColor: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 0}
+  typeOfTile: 3
+  isKey: 1
+  isSword: 0
+  pickUpobject: {fileID: -7821723615471524110, guid: c39a170df8f030b43834efbd9ae3de1b,
+    type: 3}
+  NeedKeyToOpen: 0
+  attackDir: 0
+  movesInCycle: 0
+  attackMoveNum: 0
+  defendMoveNum: 0
+  prepareNum: 0

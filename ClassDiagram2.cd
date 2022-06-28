@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttackTrigger">
+    <Position X="16.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\AttackTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="button">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQABAAAACAAARAgAAAAIAAAAEAAACAAQAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="currentTile">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\currentTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeathTile">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DeathTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoNotDestroy">
+    <Position X="14.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\DoNotDestroy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyTile">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAACAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreezeTile">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAECAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FreezeTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="health">
+    <Position X="16.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAACABAAAAAAAgAAAgAAIJAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_Manager">
+    <Position X="12.75" Y="10.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Inventory_Manager.pickup" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Inventory_Manager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAgAAAAAEAAAAAAQAACAAABACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory_Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventorySlot">
+    <Position X="12.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBQAAAAAACCQAAACAIAAAAAAAAAAAAQAAAAAAAGAAAA=</HashCode>
+      <FileName>Assets\Scripts\InventorySlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager">
+    <Position X="11" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAAACAAAAAAAAAAAAAAASBAAAAAAACAAUCAAEg=</HashCode>
+      <FileName>Assets\Scripts\LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuButtons">
+    <Position X="14.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveTile">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pickup_Tile">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAgAAAAAAAAAAAAAEBAAAIiAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Pickup_Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="9" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQUAAAACCAAIAAgAACAgAKAAAFgAQAABAQACgEAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveData">
+    <Position X="14.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSystem">
+    <Position X="14.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="skeleton">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACEAIgABEAAAAAAAAAEQAABAAQBACAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\skeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stairs_Tile">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAICBAJAAAAAAAAAAAAEAAAIACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Stairs_Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAIACAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileInfo">
+    <Position X="17.75" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="TileInfo.tileType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\TileInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="TileInfo.attackDirection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\TileInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAABAAAICAAEIQAAAAAAIAEABBCAABACAQAAA=</HashCode>
+      <FileName>Assets\Scripts\TileInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurnManager">
+    <Position X="11" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACEAAQAAAAAAAAAAAAAQCAAAgBAABACAAAAACAAAEA=</HashCode>
+      <FileName>Assets\Scripts\TurnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

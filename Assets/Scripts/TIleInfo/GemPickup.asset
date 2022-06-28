@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056a90b20cf337c45974dd5ea0a71067, type: 3}
+  m_Name: GemPickup
+  m_EditorClassIdentifier: 
+  unused: {fileID: -279146466601865635, guid: b79e87c5467c6eb4da75d559870c2f2f, type: 3}
+  highlighted: {fileID: 5049258560665330469, guid: b79e87c5467c6eb4da75d559870c2f2f,
+    type: 3}
+  HighlightColor: {r: 0, g: 0.40026736, b: 1, a: 1}
+  typeOfTile: 3
+  isKey: 0
+  isSword: 0
+  isGem: 1
+  pickUpobject: {fileID: 0}
+  sparkleGem: {fileID: 7645623337529790703, guid: b4a405aec2ee7604cb74d302aaadee63,
+    type: 3}
+  NeedKeyToOpen: 0
+  attackDir: 0
+  movesInCycle: 0
+  attackMoveNum: 0
+  defendMoveNum: 0
+  prepareNum: 0
